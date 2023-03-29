@@ -22,9 +22,9 @@ Assuming they are installed, you can simply type `make` to build the gateware, w
 | LED3 | 4 |
 | GND | 5 |
 | 3V3 | 6 |
-| LED1 | 7 |
-| LED2 | 8 |
-| LED3 | 9 |
-| LED4 | 10 |
+| LED4 | 7 |
+| LED5 | 8 |
+| LED6 | 9 |
+| LED7 | 10 |
 | GND | 11 |
 | 3V3 | 12 |
