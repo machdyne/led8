@@ -4,7 +4,7 @@ LED8 is a simple 8 LED module with a 12-pin Pmod&trade; compatible header.
 
 This repo contains schematics, pinouts and example gateware.
 
-Find more information on the [LED8 product page](https://machdyne.com/product/maled8-pmod/).
+Find more information on the [LED8 product page](https://machdyne.com/product/led8-pmod/).
 
 ## Counter w/ Adjustable Brightness Example
 
